@@ -1,2 +1,4 @@
 # hello-world
-starter project
+Hi!
+
+Here is some text.
